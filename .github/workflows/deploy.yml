@@ -44,3 +44,5 @@ jobs:
           docker compose up -d
           sleep 5
           curl -f http://localhost:8080/health
+
+          
